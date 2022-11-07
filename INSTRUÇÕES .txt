@@ -1,0 +1,7 @@
+Para funcionar corretamente:
+
+- Instalar o Firebird 3.0 como serviço
+
+- Criar uma pasta chamada Agenda no disco local C: 
+
+- Colar os arquivos  Agenda.exe e AGENDA.FDB
